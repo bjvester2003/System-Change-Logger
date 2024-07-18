@@ -6,6 +6,7 @@ Additionally, the descriptions can be no longer than 150 characters. Should this
 be exceeded a further error will be shown.
 
 positional arguments:
+
   Type         The type of change being made. Changes should be from the following    
                list: ['Installation', 'Uninstallation', 'Configuration', or 'Other']  
   Location     The location of the committed change. Follow the standard X>Y>Z format 
